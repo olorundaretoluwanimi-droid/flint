@@ -1,0 +1,1202 @@
+[
+ {
+  "t0": 1.1,
+  "t1": 5.75,
+  "text": "It's the night of 30 December 1936."
+ },
+ {
+  "t0": 5.77,
+  "t1": 8.31,
+  "text": "Flint, Michigan."
+ },
+ {
+  "t0": 8.81,
+  "t1": 12.69,
+  "text": "Inside General Motors' Fisher Body Plant No. 1,"
+ },
+ {
+  "t0": 12.71,
+  "t1": 16.67,
+  "text": "the workers have seen something they don't like."
+ },
+ {
+  "t0": 16.69,
+  "t1": 20.41,
+  "text": "Machinery is being loaded onto railroad cars,"
+ },
+ {
+  "t0": 20.43,
+  "t1": 22.99,
+  "text": "bound for other factories."
+ },
+ {
+  "t0": 23.49,
+  "t1": 27.19,
+  "text": "So they stop working. They shut the doors."
+ },
+ {
+  "t0": 27.21,
+  "t1": 29.2,
+  "text": "And they sit down."
+ },
+ {
+  "t0": 29.7,
+  "t1": 33.72,
+  "text": "One man shouts: “She's ours!”"
+ },
+ {
+  "t0": 34.22,
+  "t1": 36.62,
+  "text": "They will stay for 44 days."
+ },
+ {
+  "t0": 36.64,
+  "t1": 38.68,
+  "text": "And when they walk out,"
+ },
+ {
+  "t0": 38.7,
+  "t1": 43.42,
+  "text": "the biggest carmaker in the world will have given in."
+ },
+ {
+  "t0": 43.44,
+  "t1": 49.03,
+  "text": "Flint will be the town where American factory workers won."
+ },
+ {
+  "t0": 49.53,
+  "t1": 54.23,
+  "text": "Four decades later, about 80,000 people in Flint"
+ },
+ {
+  "t0": 54.25,
+  "t1": 57.49,
+  "text": "will work for General Motors."
+ },
+ {
+  "t0": 57.99,
+  "t1": 62.8,
+  "text": "Today, the city has lost more than half its people."
+ },
+ {
+  "t0": 63.3,
+  "t1": 65.5,
+  "text": "So what did winning buy?"
+ },
+ {
+  "t0": 65.52,
+  "t1": 68.6,
+  "text": "And what couldn't it protect?"
+ },
+ {
+  "t0": 69.1,
+  "t1": 73.03,
+  "text": "This is the story of what happened to Flint."
+ },
+ {
+  "t0": 73.05,
+  "t1": 77.44,
+  "text": "Every photograph you'll see is of the real Flint."
+ },
+ {
+  "t0": 77.46,
+  "t1": 82.99,
+  "text": "Every number has a source. And we'll tell it in six days."
+ },
+ {
+  "t0": 83.49,
+  "t1": 89.07,
+  "text": "The day General Motors was born. The night they sat down."
+ },
+ {
+  "t0": 89.09,
+  "t1": 92.8,
+  "text": "The day they won. The year at the top."
+ },
+ {
+  "t0": 92.82,
+  "t1": 99.5,
+  "text": "The day the last Buick was built. And the day the water changed."
+ },
+ {
+  "t0": 100.0,
+  "t1": 104.24,
+  "text": "If anyone in your family ever carried a union card,"
+ },
+ {
+  "t0": 104.26,
+  "t1": 108.51,
+  "text": "or built a car in Flint, this one is for them."
+ },
+ {
+  "t0": 113.61,
+  "t1": 115.74,
+  "text": "It's 16 September 1908."
+ },
+ {
+  "t0": 115.76,
+  "t1": 120.68,
+  "text": "And a man from Flint is about to create a car company"
+ },
+ {
+  "t0": 120.7,
+  "t1": 125.02,
+  "text": "that will become the biggest in the world."
+ },
+ {
+  "t0": 125.52,
+  "t1": 131.44,
+  "text": "His name is William Crapo Durant. Everyone calls him Billy."
+ },
+ {
+  "t0": 131.46,
+  "t1": 135.68,
+  "text": "He isn't an engineer. He's a salesman."
+ },
+ {
+  "t0": 136.18,
+  "t1": 139.39,
+  "text": "Twenty-two years earlier, in 1886,"
+ },
+ {
+  "t0": 139.41,
+  "t1": 142.53,
+  "text": "he borrowed $1,500 and bought the"
+ },
+ {
+  "t0": 142.55,
+  "t1": 145.76,
+  "text": "rights to a two-wheeled road cart."
+ },
+ {
+  "t0": 145.78,
+  "t1": 152.16,
+  "text": "With a partner, Dallas Dort, he started building them in Flint."
+ },
+ {
+  "t0": 152.66,
+  "t1": 156.79,
+  "text": "By 1900, the Durant-Dort Carriage Company"
+ },
+ {
+  "t0": 156.81,
+  "t1": 161.03,
+  "text": "was the biggest carriage maker in America."
+ },
+ {
+  "t0": 161.05,
+  "t1": 167.11,
+  "text": "Flint put up an arch over its main street: Vehicle City."
+ },
+ {
+  "t0": 167.61,
+  "t1": 172.6,
+  "text": "Then the vehicles changed. In 1904, Durant took over"
+ },
+ {
+  "t0": 172.62,
+  "t1": 176.55,
+  "text": "a small, struggling company called Buick."
+ },
+ {
+  "t0": 176.57,
+  "t1": 180.5,
+  "text": "He sold Buicks the way he had sold carts,"
+ },
+ {
+  "t0": 180.52,
+  "t1": 185.84,
+  "text": "and Buick grew faster than anyone could build them."
+ },
+ {
+  "t0": 186.34,
+  "t1": 192.35,
+  "text": "Now, in September 1908, he puts Buick inside a new company,"
+ },
+ {
+  "t0": 192.37,
+  "t1": 198.3,
+  "text": "with Oldsmobile beside it. He calls it General Motors."
+ },
+ {
+  "t0": 198.8,
+  "t1": 201.88,
+  "text": "The fire-insurance map of Flint the"
+ },
+ {
+  "t0": 201.9,
+  "t1": 205.25,
+  "text": "next year shows what Buick has become:"
+ },
+ {
+  "t0": 205.27,
+  "t1": 208.79,
+  "text": "a factory spread over block after block,"
+ },
+ {
+  "t0": 208.81,
+  "t1": 211.51,
+  "text": "on the north side of town."
+ },
+ {
+  "t0": 212.01,
+  "t1": 215.18,
+  "text": "More would come. Chevrolet built"
+ },
+ {
+  "t0": 215.2,
+  "t1": 218.37,
+  "text": "cars in Flint's old wagon works."
+ },
+ {
+  "t0": 218.39,
+  "t1": 224.26,
+  "text": "Fisher Body stamped the steel. AC made the spark plugs."
+ },
+ {
+  "t0": 224.76,
+  "t1": 227.27,
+  "text": "And the people came."
+ },
+ {
+  "t0": 227.29,
+  "t1": 231.43,
+  "text": "In 1900, Flint had 13,000 people."
+ },
+ {
+  "t0": 231.45,
+  "t1": 236.15,
+  "text": "By 1930, it had more than 150,000."
+ },
+ {
+  "t0": 236.65,
+  "t1": 240.46,
+  "text": "This is what working there looked like,"
+ },
+ {
+  "t0": 240.48,
+  "t1": 245.07,
+  "text": "filmed inside Chevrolet's Flint plants in 1936."
+ },
+ {
+  "t0": 245.09,
+  "t1": 248.51,
+  "text": "The foundry. The presses. The line."
+ },
+ {
+  "t0": 248.53,
+  "t1": 251.87,
+  "text": "Fast, hot, and never stopping."
+ },
+ {
+  "t0": 252.37,
+  "t1": 255.42,
+  "text": "The pay was better than on any farm."
+ },
+ {
+  "t0": 255.44,
+  "t1": 260.2,
+  "text": "But the men on the line had no say over how fast it ran,"
+ },
+ {
+  "t0": 260.22,
+  "t1": 263.6,
+  "text": "or who was laid off when it slowed."
+ },
+ {
+  "t0": 264.1,
+  "t1": 268.07,
+  "text": "So why would they risk everything?"
+ },
+ {
+  "t0": 273.17,
+  "t1": 277.96,
+  "text": "It's 30 December 1936, again."
+ },
+ {
+  "t0": 277.98,
+  "t1": 281.87,
+  "text": "And now we're inside."
+ },
+ {
+  "t0": 282.36,
+  "t1": 284.32,
+  "text": "The union has a plan."
+ },
+ {
+  "t0": 284.34,
+  "t1": 288.65,
+  "text": "General Motors makes almost all its car bodies"
+ },
+ {
+  "t0": 288.67,
+  "t1": 294.3,
+  "text": "from steel dies, the giant moulds that stamp out the panels."
+ },
+ {
+  "t0": 294.32,
+  "t1": 298.63,
+  "text": "And there are only two sets. One in Cleveland."
+ },
+ {
+  "t0": 298.65,
+  "t1": 302.53,
+  "text": "One here, in Fisher Body Plant No. 1."
+ },
+ {
+  "t0": 303.03,
+  "t1": 305.79,
+  "text": "When the workers see those dies"
+ },
+ {
+  "t0": 305.81,
+  "t1": 309.11,
+  "text": "being moved toward the railroad cars,"
+ },
+ {
+  "t0": 309.13,
+  "t1": 311.71,
+  "text": "they know. If the dies leave,"
+ },
+ {
+  "t0": 311.73,
+  "t1": 315.35,
+  "text": "the strike is lost before it starts."
+ },
+ {
+  "t0": 315.85,
+  "t1": 317.84,
+  "text": "So they don't walk out."
+ },
+ {
+  "t0": 317.86,
+  "t1": 322.45,
+  "text": "Walking out would let the company bring in other men."
+ },
+ {
+  "t0": 322.47,
+  "t1": 326.8,
+  "text": "Instead, they stay inside, and they sit down."
+ },
+ {
+  "t0": 327.29,
+  "t1": 331.95,
+  "text": "These photographs were taken inside the Fisher Body plants"
+ },
+ {
+  "t0": 331.97,
+  "t1": 335.83,
+  "text": "by a government photographer, Sheldon Dick."
+ },
+ {
+  "t0": 336.33,
+  "t1": 341.38,
+  "text": "The strikers sleep on the car seats from the assembly line."
+ },
+ {
+  "t0": 341.4,
+  "t1": 344.13,
+  "text": "They eat in the plant cafeteria."
+ },
+ {
+  "t0": 344.15,
+  "t1": 348.24,
+  "text": "They guard the doors and windows in shifts."
+ },
+ {
+  "t0": 348.74,
+  "t1": 352.15,
+  "text": "Outside, the women of Flint organize."
+ },
+ {
+  "t0": 352.17,
+  "t1": 356.89,
+  "text": "They call themselves the Women's Emergency Brigade,"
+ },
+ {
+  "t0": 356.91,
+  "t1": 359.21,
+  "text": "and they wear red berets."
+ },
+ {
+  "t0": 359.23,
+  "t1": 363.52,
+  "text": "One of their organizers is Genora Johnson."
+ },
+ {
+  "t0": 364.02,
+  "t1": 368.38,
+  "text": "On 11 January, the police try to cut off the food"
+ },
+ {
+  "t0": 368.4,
+  "t1": 370.79,
+  "text": "at Fisher Body Plant No. 2."
+ },
+ {
+  "t0": 370.81,
+  "t1": 373.74,
+  "text": "The strikers fight back with fire"
+ },
+ {
+  "t0": 373.76,
+  "t1": 376.6,
+  "text": "hoses and heavy car-door hinges."
+ },
+ {
+  "t0": 376.62,
+  "t1": 380.87,
+  "text": "The police fire tear gas, and then bullets."
+ },
+ {
+  "t0": 381.37,
+  "t1": 384.63,
+  "text": "Fourteen strikers are hit by gunfire."
+ },
+ {
+  "t0": 384.65,
+  "t1": 386.5,
+  "text": "The police pull back."
+ },
+ {
+  "t0": 386.52,
+  "t1": 391.63,
+  "text": "The strikers call it the Battle of the Running Bulls."
+ },
+ {
+  "t0": 392.13,
+  "t1": 395.01,
+  "text": "Now the new governor of Michigan,"
+ },
+ {
+  "t0": 395.03,
+  "t1": 398.7,
+  "text": "Frank Murphy, sends in the National Guard."
+ },
+ {
+  "t0": 398.72,
+  "t1": 401.68,
+  "text": "But not to throw the strikers out."
+ },
+ {
+  "t0": 401.7,
+  "t1": 405.53,
+  "text": "To keep the peace, and to protect them."
+ },
+ {
+  "t0": 406.03,
+  "t1": 410.13,
+  "text": "A court orders the strikers to leave. They don't."
+ },
+ {
+  "t0": 410.15,
+  "t1": 415.09,
+  "text": "And the governor will not use the troops to make them."
+ },
+ {
+  "t0": 415.59,
+  "t1": 419.06,
+  "text": "On 1 February, the union pulls a trick."
+ },
+ {
+  "t0": 419.08,
+  "t1": 422.65,
+  "text": "It starts a fight at Chevrolet Plant No."
+ },
+ {
+  "t0": 422.67,
+  "t1": 425.79,
+  "text": "9, to draw the company guards away."
+ },
+ {
+  "t0": 425.81,
+  "t1": 429.91,
+  "text": "Meanwhile, its men take Chevrolet Plant No. 4."
+ },
+ {
+  "t0": 429.93,
+  "t1": 435.18,
+  "text": "That's where the engines for every Chevrolet are made."
+ },
+ {
+  "t0": 435.67,
+  "t1": 441.79,
+  "text": "In December, General Motors built 50,000 cars."
+ },
+ {
+  "t0": 441.81,
+  "t1": 445.81,
+  "text": "In February, it builds 125."
+ },
+ {
+  "t0": 446.31,
+  "t1": 449.15,
+  "text": "Can they actually win?"
+ },
+ {
+  "t0": 454.25,
+  "t1": 459.18,
+  "text": "It's 11 February 1937."
+ },
+ {
+  "t0": 459.2,
+  "t1": 461.17,
+  "text": "Day 44."
+ },
+ {
+  "t0": 461.67,
+  "t1": 466.4,
+  "text": "With the governor carrying messages between the two sides,"
+ },
+ {
+  "t0": 466.42,
+  "t1": 470.25,
+  "text": "General Motors and the union sign an agreement."
+ },
+ {
+  "t0": 470.27,
+  "t1": 471.89,
+  "text": "It is one page long."
+ },
+ {
+  "t0": 471.91,
+  "t1": 474.67,
+  "text": "For the first time, General Motors"
+ },
+ {
+  "t0": 474.69,
+  "t1": 477.46,
+  "text": "recognizes the United Auto Workers"
+ },
+ {
+  "t0": 477.48,
+  "t1": 481.15,
+  "text": "as the bargaining agent for its members."
+ },
+ {
+  "t0": 481.65,
+  "t1": 486.05,
+  "text": "The strikers parade out of the plants, victorious."
+ },
+ {
+  "t0": 486.07,
+  "t1": 490.45,
+  "text": "Some of them have not been home in six weeks."
+ },
+ {
+  "t0": 490.95,
+  "t1": 496.55,
+  "text": "The strike has idled 136,000 General Motors workers,"
+ },
+ {
+  "t0": 496.57,
+  "t1": 499.78,
+  "text": "and left 280,000 cars unbuilt."
+ },
+ {
+  "t0": 499.8,
+  "t1": 504.85,
+  "text": "And it changes everything that comes after."
+ },
+ {
+  "t0": 505.35,
+  "t1": 512.05,
+  "text": "In February, the United Auto Workers has 88,000 members."
+ },
+ {
+  "t0": 512.07,
+  "t1": 515.71,
+  "text": "By October, it has 400,000."
+ },
+ {
+  "t0": 516.21,
+  "t1": 518.93,
+  "text": "What follows are the good years."
+ },
+ {
+  "t0": 518.95,
+  "t1": 524.23,
+  "text": "During the Second World War, Flint's plants build for the war."
+ },
+ {
+  "t0": 524.25,
+  "t1": 527.81,
+  "text": "Women take their places on the lines."
+ },
+ {
+  "t0": 528.31,
+  "t1": 532.85,
+  "text": "After it, the cars come back bigger than ever."
+ },
+ {
+  "t0": 532.87,
+  "t1": 539.12,
+  "text": "A factory job in Flint means a house, a car, and a pension."
+ },
+ {
+  "t0": 539.62,
+  "t1": 545.27,
+  "text": "By 1960, Flint has almost 197,000 people."
+ },
+ {
+  "t0": 545.29,
+  "t1": 551.21,
+  "text": "More than it has ever had, or ever will."
+ },
+ {
+  "t0": 551.71,
+  "t1": 554.71,
+  "text": "How long can it last?"
+ },
+ {
+  "t0": 559.81,
+  "t1": 564.12,
+  "text": "It's 1978. The top."
+ },
+ {
+  "t0": 564.62,
+  "t1": 571.06,
+  "text": "About 80,000 people in and around Flint work for General Motors."
+ },
+ {
+  "t0": 571.08,
+  "t1": 574.91,
+  "text": "Buick, Chevrolet, Fisher Body, AC."
+ },
+ {
+  "t0": 575.41,
+  "t1": 580.13,
+  "text": "Across America, General Motors employs more"
+ },
+ {
+  "t0": 580.15,
+  "t1": 584.32,
+  "text": "people than any other private company."
+ },
+ {
+  "t0": 584.34,
+  "t1": 589.14,
+  "text": "At its peak, in 1979, more than 618,000."
+ },
+ {
+  "t0": 589.64,
+  "t1": 593.94,
+  "text": "But the cracks are already there. Smaller,"
+ },
+ {
+  "t0": 593.96,
+  "t1": 597.43,
+  "text": "cheaper imported cars are selling."
+ },
+ {
+  "t0": 597.45,
+  "t1": 602.35,
+  "text": "In 1978, imports are 18% of the American market."
+ },
+ {
+  "t0": 602.37,
+  "t1": 606.57,
+  "text": "Two years later, more than a quarter."
+ },
+ {
+  "t0": 607.07,
+  "t1": 612.72,
+  "text": "General Motors builds new plants in other states, and in Mexico."
+ },
+ {
+  "t0": 612.74,
+  "t1": 617.3,
+  "text": "Flint's old factories close, one after another."
+ },
+ {
+  "t0": 617.8,
+  "t1": 620.47,
+  "text": "In 1989, a filmmaker from Flint,"
+ },
+ {
+  "t0": 620.49,
+  "t1": 623.58,
+  "text": "Michael Moore, makes a film about it,"
+ },
+ {
+  "t0": 623.6,
+  "t1": 626.86,
+  "text": "“Roger & Me”, following his attempts to"
+ },
+ {
+  "t0": 626.88,
+  "t1": 630.13,
+  "text": "talk to the chairman of General Motors."
+ },
+ {
+  "t0": 630.15,
+  "t1": 633.58,
+  "text": "Many people see Flint for the first time,"
+ },
+ {
+  "t0": 633.6,
+  "t1": 637.11,
+  "text": "as a place that has been left behind."
+ },
+ {
+  "t0": 637.61,
+  "t1": 640.51,
+  "text": "General Motors says it has to cut"
+ },
+ {
+  "t0": 640.53,
+  "t1": 643.42,
+  "text": "costs to survive the competition."
+ },
+ {
+  "t0": 643.44,
+  "t1": 648.64,
+  "text": "The workers say they did everything that was asked of them."
+ },
+ {
+  "t0": 648.66,
+  "t1": 652.78,
+  "text": "Both are telling the truth as they see it."
+ },
+ {
+  "t0": 653.28,
+  "t1": 658.91,
+  "text": "By 1980, Flint is down to 160,000 people."
+ },
+ {
+  "t0": 658.93,
+  "t1": 661.82,
+  "text": "And still falling."
+ },
+ {
+  "t0": 662.32,
+  "t1": 665.89,
+  "text": "What happens when the jobs go?"
+ },
+ {
+  "t0": 670.99,
+  "t1": 677.23,
+  "text": "It's 29 June 1999. Buick City."
+ },
+ {
+  "t0": 677.73,
+  "t1": 683.09,
+  "text": "This is the old Buick works, the same ground on the north side"
+ },
+ {
+  "t0": 683.11,
+  "t1": 687.34,
+  "text": "where Billy Durant built Buicks ninety years ago,"
+ },
+ {
+  "t0": 687.36,
+  "t1": 691.83,
+  "text": "rebuilt in the 1980s as one giant modern plant."
+ },
+ {
+  "t0": 692.33,
+  "t1": 696.51,
+  "text": "The last Buick LeSabre is coming down the line."
+ },
+ {
+  "t0": 696.53,
+  "t1": 701.6,
+  "text": "When it's done, Buick will no longer build cars in Flint,"
+ },
+ {
+  "t0": 701.62,
+  "t1": 704.16,
+  "text": "the city where it began."
+ },
+ {
+  "t0": 704.66,
+  "t1": 709.52,
+  "text": "General Motors announced the closing two years ago."
+ },
+ {
+  "t0": 709.54,
+  "t1": 712.58,
+  "text": "Sales of big sedans are falling."
+ },
+ {
+  "t0": 712.6,
+  "t1": 716.26,
+  "text": "Only about 1,200 workers are left."
+ },
+ {
+  "t0": 716.76,
+  "t1": 720.55,
+  "text": "And here is the part that's hard to believe."
+ },
+ {
+  "t0": 720.57,
+  "t1": 725.76,
+  "text": "This same year, Buick City wins J.D. Power's Platinum Award,"
+ },
+ {
+  "t0": 725.78,
+  "t1": 728.69,
+  "text": "for the quality of its plant."
+ },
+ {
+  "t0": 729.19,
+  "t1": 734.68,
+  "text": "Ten years earlier, a LeSabre built here was ranked the top car"
+ },
+ {
+  "t0": 734.7,
+  "t1": 737.61,
+  "text": "in J.D. Power's quality rankings."
+ },
+ {
+  "t0": 737.63,
+  "t1": 742.64,
+  "text": "The first American-built car ever to make that list."
+ },
+ {
+  "t0": 743.14,
+  "t1": 746.46,
+  "text": "Being the best was not enough."
+ },
+ {
+  "t0": 746.96,
+  "t1": 753.45,
+  "text": "By now, General Motors employs about 33,000 people in Flint."
+ },
+ {
+  "t0": 753.47,
+  "t1": 755.3,
+  "text": "Down from 80,000."
+ },
+ {
+  "t0": 755.32,
+  "t1": 760.17,
+  "text": "And it will keep falling, to under 8,000."
+ },
+ {
+  "t0": 760.67,
+  "t1": 764.66,
+  "text": "What is Flint, without its factories?"
+ },
+ {
+  "t0": 769.76,
+  "t1": 773.99,
+  "text": "It's October 2014."
+ },
+ {
+  "t0": 774.49,
+  "t1": 776.49,
+  "text": "Flint is short of money,"
+ },
+ {
+  "t0": 776.51,
+  "t1": 780.01,
+  "text": "and the state of Michigan has put it under"
+ },
+ {
+  "t0": 780.03,
+  "t1": 784.05,
+  "text": "an emergency manager, appointed by the governor,"
+ },
+ {
+  "t0": 784.07,
+  "t1": 787.57,
+  "text": "with power over the city's decisions."
+ },
+ {
+  "t0": 788.07,
+  "t1": 791.37,
+  "text": "Six months ago, in April, to save money,"
+ },
+ {
+  "t0": 791.39,
+  "t1": 795.27,
+  "text": "the city stopped buying its water from Detroit,"
+ },
+ {
+  "t0": 795.29,
+  "t1": 798.92,
+  "text": "and started drawing it from the Flint River."
+ },
+ {
+  "t0": 798.94,
+  "t1": 804.4,
+  "text": "It was meant to be temporary, until a new pipeline was built."
+ },
+ {
+  "t0": 804.9,
+  "t1": 809.2,
+  "text": "The river water is not treated to control corrosion."
+ },
+ {
+  "t0": 809.22,
+  "t1": 812.86,
+  "text": "And it is eating away at the old pipes."
+ },
+ {
+  "t0": 813.36,
+  "t1": 816.46,
+  "text": "At General Motors' Flint engine plant,"
+ },
+ {
+  "t0": 816.48,
+  "t1": 818.6,
+  "text": "the company notices first."
+ },
+ {
+  "t0": 818.62,
+  "t1": 821.56,
+  "text": "The water is corroding engine parts."
+ },
+ {
+  "t0": 821.58,
+  "t1": 825.75,
+  "text": "So General Motors gets permission to stop using it,"
+ },
+ {
+  "t0": 825.77,
+  "t1": 828.72,
+  "text": "and switches to another supply."
+ },
+ {
+  "t0": 829.22,
+  "t1": 833.91,
+  "text": "Ronald Jamison had worked at that plant for 39 years."
+ },
+ {
+  "t0": 833.93,
+  "t1": 839.03,
+  "text": "“They told Flint… you're causing us to lose engines.”"
+ },
+ {
+  "t0": 839.54,
+  "t1": 842.12,
+  "text": "“Matter of fact, they took all the"
+ },
+ {
+  "t0": 842.14,
+  "t1": 844.65,
+  "text": "water fountains out of the plant."
+ },
+ {
+  "t0": 844.67,
+  "t1": 848.75,
+  "text": "We have all water coolers throughout the plant.”"
+ },
+ {
+  "t0": 849.25,
+  "t1": 854.13,
+  "text": "The people of Flint stay on the river water for another year."
+ },
+ {
+  "t0": 854.63,
+  "t1": 859.32,
+  "text": "In September 2015, a local doctor, Mona Hanna-Attisha,"
+ },
+ {
+  "t0": 859.34,
+  "t1": 864.89,
+  "text": "shows that more of the city's children have lead in their blood."
+ },
+ {
+  "t0": 864.91,
+  "t1": 869.75,
+  "text": "In October, Flint switches back to Detroit's water."
+ },
+ {
+  "t0": 870.25,
+  "t1": 875.31,
+  "text": "By then, lead from the old pipes has reached the taps."
+ },
+ {
+  "t0": 875.33,
+  "t1": 880.75,
+  "text": "An outbreak of Legionnaires' disease, linked to the water,"
+ },
+ {
+  "t0": 880.77,
+  "t1": 883.52,
+  "text": "kills at least 12 people."
+ },
+ {
+  "t0": 884.02,
+  "t1": 889.28,
+  "text": "In January 2016, the National Guard comes to Flint again."
+ },
+ {
+  "t0": 889.3,
+  "t1": 892.51,
+  "text": "Not to protect strikers, this time."
+ },
+ {
+  "t0": 892.53,
+  "t1": 897.47,
+  "text": "To carry bottled water and filters, door to door."
+ },
+ {
+  "t0": 897.97,
+  "t1": 902.96,
+  "text": "Officials, including two former emergency managers,"
+ },
+ {
+  "t0": 902.98,
+  "t1": 905.31,
+  "text": "are charged with crimes."
+ },
+ {
+  "t0": 905.33,
+  "t1": 910.71,
+  "text": "In 2021, a judge approves a settlement of $626 million,"
+ },
+ {
+  "t0": 910.73,
+  "t1": 916.83,
+  "text": "most of it paid by the state, most of it for the children."
+ },
+ {
+  "t0": 917.33,
+  "t1": 920.01,
+  "text": "Is anything left?"
+ },
+ {
+  "t0": 925.11,
+  "t1": 929.08,
+  "text": "Today, Flint has 81,000 people."
+ },
+ {
+  "t0": 929.1,
+  "t1": 933.99,
+  "text": "Fewer than half as many as in 1960."
+ },
+ {
+  "t0": 934.49,
+  "t1": 938.19,
+  "text": "But General Motors still builds trucks here."
+ },
+ {
+  "t0": 938.21,
+  "t1": 941.06,
+  "text": "Flint Assembly, its oldest working"
+ },
+ {
+  "t0": 941.08,
+  "t1": 943.76,
+  "text": "assembly plant in North America,"
+ },
+ {
+  "t0": 943.78,
+  "t1": 945.87,
+  "text": "makes heavy-duty pickups,"
+ },
+ {
+  "t0": 945.89,
+  "t1": 949.66,
+  "text": "with more than 4,000 people on the line."
+ },
+ {
+  "t0": 950.16,
+  "t1": 954.86,
+  "text": "Chevy in the Hole, where Chevrolet's plants stood,"
+ },
+ {
+  "t0": 954.88,
+  "t1": 958.63,
+  "text": "and where the strikers took Plant No. 4,"
+ },
+ {
+  "t0": 958.65,
+  "t1": 963.01,
+  "text": "is now a park by the river: Chevy Commons."
+ },
+ {
+  "t0": 963.51,
+  "t1": 966.06,
+  "text": "And on the Buick City ground,"
+ },
+ {
+  "t0": 966.08,
+  "t1": 969.61,
+  "text": "where Billy Durant's first factory grew,"
+ },
+ {
+  "t0": 969.63,
+  "t1": 972.98,
+  "text": "new industrial buildings are going up."
+ },
+ {
+  "t0": 973.0,
+  "t1": 975.71,
+  "text": "Ground was broken in 2023."
+ },
+ {
+  "t0": 976.21,
+  "t1": 978.27,
+  "text": "So what did winning buy?"
+ },
+ {
+  "t0": 978.29,
+  "t1": 982.54,
+  "text": "Decades of union wages, pensions and health care,"
+ },
+ {
+  "t0": 982.56,
+  "t1": 986.26,
+  "text": "for hundreds of thousands of families."
+ },
+ {
+  "t0": 986.76,
+  "t1": 988.87,
+  "text": "And what couldn't it protect?"
+ },
+ {
+  "t0": 988.89,
+  "t1": 991.87,
+  "text": "It couldn't keep the company in the city."
+ },
+ {
+  "t0": 991.89,
+  "t1": 995.9,
+  "text": "It couldn't decide where the next plant would be built."
+ },
+ {
+  "t0": 995.92,
+  "t1": 999.84,
+  "text": "And it couldn't stop a decision about the water."
+ },
+ {
+  "t0": 1000.34,
+  "t1": 1004.33,
+  "text": "Ninety years ago, a group of workers sat down"
+ },
+ {
+  "t0": 1004.35,
+  "t1": 1009.3,
+  "text": "in a car-body plant in Flint, and refused to leave."
+ },
+ {
+  "t0": 1009.8,
+  "t1": 1013.65,
+  "text": "“She's ours,” one of them shouted."
+ },
+ {
+  "t0": 1013.67,
+  "t1": 1016.35,
+  "text": "For 44 days, it was."
+ },
+ {
+  "t0": 1016.85,
+  "t1": 1022.36,
+  "text": "Did your family build cars in Flint? Or carry a union card?"
+ },
+ {
+  "t0": 1022.38,
+  "t1": 1026.8,
+  "text": "Tell us in the comments. We read every one."
+ },
+ {
+  "t0": 1027.3,
+  "t1": 1030.54,
+  "text": "Next Sunday: Sears."
+ }
+]

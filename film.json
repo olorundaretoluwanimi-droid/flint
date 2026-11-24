@@ -1,0 +1,2752 @@
+{
+"dur": 1047.7,
+"scenes": [
+{
+"type": "open",
+"t0": 1.2,
+"line": "n01",
+"vd": 6.81,
+"t1": 8.91
+},
+{
+"type": "photo",
+"img": "strike_entrance",
+"tag": "STRIKERS GUARDING A WINDOW ENTRANCE · FISHER BODY, FLINT · SHELDON DICK · 1937",
+"small": 1,
+"t0": 8.91,
+"line": "n02",
+"vd": 13.78,
+"t1": 23.59
+},
+{
+"type": "photo",
+"img": "strike_window",
+"tag": "PHOTO · SHELDON DICK · FISHER BODY PLANT, FLINT · 1937",
+"z": [
+1.0,
+1.15
+],
+"fy": 0.4,
+"t0": 23.59,
+"line": "n03",
+"vd": 5.32,
+"t1": 29.8
+},
+{
+"type": "quote",
+"img": "strike_window",
+"fx": 0.35,
+"imgTag": "SHELDON DICK · 1937",
+"q": [
+"“She’s ours!”"
+],
+"who": "A SIT-DOWNER · 30 DEC 1936 · HISTORY.COM",
+"at": 0.0,
+"t0": 29.8,
+"line": "q01",
+"vd": 3.62,
+"t1": 34.32
+},
+{
+"type": "stat",
+"img": "strike_sitdowners",
+"num": "44",
+"label": "days inside the plants",
+"tag": "PHOTO · SHELDON DICK · FISHER BODY PLANT, FLINT · 1937",
+"at": 0.3,
+"t0": 34.32,
+"line": "n04",
+"vd": 14.41,
+"t1": 49.63
+},
+{
+"type": "stat",
+"img": "buick_city1950",
+"num": "≈ 80,000",
+"label": "GM jobs in Flint, 1978",
+"tag": "MAP OF THE BUICK WORKS, FLINT · c. 1950",
+"at": -0.35,
+"t0": 49.63,
+"line": "n05",
+"vd": 7.56,
+"t1": 58.09
+},
+{
+"type": "stat",
+"img": "ac_demolition",
+"num": "−59%",
+"label": "Flint’s population, 1960 → 2020",
+"tag": "AC SPARK PLUG SITE, FLINT · 2009 (CC BY 2.0)",
+"at": 0.3,
+"t0": 58.09,
+"line": "n06",
+"vd": 4.4,
+"colour": 1,
+"t1": 63.4
+},
+{
+"type": "title",
+"t0": 63.4,
+"line": "n07",
+"vd": 4.9,
+"t1": 69.2
+},
+{
+"type": "photo",
+"img": "strike_sleeping",
+"tag": "A STRIKER OFF SENTRY DUTY, ASLEEP ON CAR SEATS · SHELDON DICK · 1937",
+"small": 1,
+"t0": 69.2,
+"line": "n08",
+"vd": 13.49,
+"t1": 83.59
+},
+{
+"type": "photo",
+"img": "saginaw1910",
+"tag": "SAGINAW STREET, FLINT · REAL-PHOTO POSTCARD · c. 1910",
+"z": [
+1.0,
+1.1
+],
+"fy": 0.5,
+"t0": 83.59,
+"line": "n09",
+"vd": 15.61,
+"t1": 100.1
+},
+{
+"type": "photo",
+"img": "strike_meal",
+"tag": "STRIKERS EATING IN THE PLANT CAFETERIA · SHELDON DICK · 1937",
+"small": 1,
+"t0": 100.1,
+"line": "n10",
+"vd": 8.11,
+"t1": 109.11
+},
+{
+"type": "chapter",
+"t0": 109.11,
+"num": "DAY 1",
+"title": "16 SEPT 1908",
+"sub": "The day General Motors was born",
+"img": "vehicle_city",
+"colour": false,
+"t1": 113.71
+},
+{
+"type": "photo",
+"img": "durant_bain",
+"tag": "W. C. DURANT · BAIN NEWS SERVICE · LIBRARY OF CONGRESS",
+"fy": 0.25,
+"z": [
+1.0,
+1.1
+],
+"t0": 113.71,
+"line": "n11",
+"vd": 11.01,
+"t1": 125.62
+},
+{
+"type": "card",
+"name": "William C. Durant",
+"sub": "1861–1947 · “BILLY” · FOUNDER OF GENERAL MOTORS",
+"img": "durant1916",
+"tag": "W. C. DURANT · c. 1916",
+"portrait": 1,
+"t0": 125.62,
+"line": "n12",
+"vd": 9.76,
+"t1": 136.28
+},
+{
+"type": "card",
+"name": "J. Dallas Dort",
+"sub": "DURANT’S PARTNER · FLINT ROAD CART CO., 1886",
+"img": "dort",
+"tag": "J. D. DORT · 1920",
+"date": "1886",
+"portrait": 1,
+"t0": 136.28,
+"line": "n13",
+"vd": 15.58,
+"t1": 152.76
+},
+{
+"type": "photo",
+"img": "vehicle_city",
+"tag": "“FLINT VEHICLE CITY” · DETROIT & SAGINAW STREETS · POSTCARD · 1906",
+"date": "1900",
+"z": [
+1.0,
+1.12
+],
+"fy": 0.3,
+"t0": 152.76,
+"line": "n14",
+"vd": 14.04,
+"t1": 167.71
+},
+{
+"type": "photo",
+"img": "buick1907",
+"tag": "BUICK MOTOR WORKS, FLINT · 1907",
+"date": "1904",
+"z": [
+1.0,
+1.1
+],
+"t0": 167.71,
+"line": "n15",
+"vd": 17.83,
+"t1": 186.44
+},
+{
+"type": "photo",
+"img": "buick_postcard",
+"tag": "BUICK FACTORY AND OFFICES, FLINT · POSTCARD",
+"date": "1908",
+"small": 1,
+"t0": 186.44,
+"line": "n16",
+"vd": 11.56,
+"colour": 1,
+"t1": 198.9
+},
+{
+"type": "photo",
+"img": "sanborn1909_buick2",
+"tag": "SANBORN MAP · FLINT · NOV 1909 · SHEET 35",
+"fy": 0.78,
+"z": [
+1.0,
+1.06
+],
+"rings": [
+[
+2295,
+2338,
+460,
+"BUICK MOTOR CO.",
+-0.3
+]
+],
+"t0": 198.9,
+"line": "n17",
+"vd": 12.32,
+"t1": 212.11
+},
+{
+"type": "seq",
+"items": [
+[
+"wagon_works",
+"FLINT WAGON WORKS (CHEVROLET) · 1912",
+0
+],
+[
+"buick_whistle",
+"BUICK WORKERS · POSTCARD · 1912",
+0
+],
+[
+"kearsley1909",
+"KEARSLEY ST., FLINT · 1909",
+1
+]
+],
+"t0": 212.11,
+"line": "n18",
+"vd": 11.85,
+"t1": 224.86
+},
+{
+"type": "bars",
+"title": "FLINT · POPULATION · U.S. CENSUS",
+"data": [
+[
+"1900",
+13103
+],
+[
+"1910",
+38550
+],
+[
+"1920",
+91599
+],
+[
+"1930",
+156492
+]
+],
+"max": 200000,
+"at": [
+-0.22,
+-0.4,
+-0.55,
+-0.7
+],
+"red": 3,
+"img": "buick_whistle",
+"imgTag": "BUICK WORKERS AT THE WHISTLE · 1912",
+"t0": 224.86,
+"line": "n19",
+"vd": 10.99,
+"t1": 236.75
+},
+{
+"type": "film",
+"clips": [
+"c1",
+"c2",
+"c3",
+"c5"
+],
+"tag": "FILM · “MASTER HANDS” · CHEVROLET PLANTS, FLINT · 1936",
+"t0": 236.75,
+"line": "n20",
+"vd": 14.83,
+"t1": 252.47
+},
+{
+"type": "film",
+"clips": [
+"c0",
+"c4"
+],
+"tag": "FILM · “MASTER HANDS” · CHEVROLET PLANTS, FLINT · 1936",
+"t0": 252.47,
+"line": "n21",
+"vd": 10.83,
+"t1": 264.2
+},
+{
+"type": "photo",
+"img": "strike_window",
+"tag": "PHOTO · SHELDON DICK · FISHER BODY PLANT, FLINT · 1937",
+"z": [
+1.15,
+1.25
+],
+"fx": 0.3,
+"fy": 0.45,
+"t0": 264.2,
+"line": "n22",
+"vd": 3.57,
+"t1": 268.67
+},
+{
+"type": "chapter",
+"t0": 268.67,
+"num": "DAY 2",
+"title": "30 DEC 1936",
+"sub": "The night they sat down",
+"img": "strike_sitdowners",
+"colour": false,
+"t1": 273.27
+},
+{
+"type": "photo",
+"img": "strike_window",
+"tag": "PHOTO · SHELDON DICK · FISHER BODY PLANT, FLINT · 1937",
+"z": [
+1.0,
+1.08
+],
+"t0": 273.27,
+"line": "n23",
+"vd": 8.29,
+"t1": 282.46
+},
+{
+"type": "film",
+"clips": [
+"c6",
+"c5"
+],
+"tag": "FILM · “MASTER HANDS” · CHEVROLET PLANTS, FLINT · 1936",
+"t0": 282.46,
+"line": "n24",
+"vd": 19.76,
+"t1": 303.13
+},
+{
+"type": "photo",
+"img": "strike_entrance",
+"tag": "GUARDING THE WINDOW ENTRANCE · FISHER BODY, FLINT · 1937",
+"small": 1,
+"t0": 303.13,
+"line": "n25",
+"vd": 11.93,
+"t1": 315.95
+},
+{
+"type": "photo",
+"img": "strike_sitdowners",
+"tag": "PHOTO · SHELDON DICK · FISHER BODY PLANT, FLINT · 1937",
+"z": [
+1.0,
+1.12
+],
+"t0": 315.95,
+"line": "n26",
+"vd": 10.54,
+"t1": 327.39
+},
+{
+"type": "photo",
+"img": "strike_sitdowners",
+"tag": "PHOTO · SHELDON DICK · FISHER BODY PLANT, FLINT · 1937",
+"z": [
+1.0,
+1.08
+],
+"name": "Photographs: Sheldon Dick",
+"role": "FARM SECURITY ADMINISTRATION · LIBRARY OF CONGRESS",
+"t0": 327.39,
+"line": "n27",
+"vd": 8.14,
+"t1": 336.43
+},
+{
+"type": "seq",
+"items": [
+[
+"strike_sleeping",
+"ASLEEP ON CAR SEATS · 1937",
+0
+],
+[
+"strike_meal",
+"THE PLANT CAFETERIA · 1937",
+0
+],
+[
+"strike_entrance",
+"ON GUARD AT A WINDOW · 1937",
+0
+]
+],
+"t0": 336.43,
+"line": "n28",
+"vd": 11.51,
+"t1": 348.84
+},
+{
+"type": "photo",
+"img": "women_flint",
+"tag": "“WOMEN OF FLINT” · PAINTING · JOSEPH VAVAK · 1937",
+"z": [
+1.0,
+1.1
+],
+"date": "1937",
+"t0": 348.84,
+"line": "n30",
+"vd": 14.38,
+"t1": 364.12
+},
+{
+"type": "board",
+"upto": 1,
+"t0": 364.12,
+"line": "n31",
+"vd": 16.45,
+"from": 1,
+"t1": 381.47
+},
+{
+"type": "stat",
+"img": "strike_window",
+"num": "14",
+"label": "strikers hit by gunfire · 11 January 1937",
+"tag": "PHOTO · SHELDON DICK · FISHER BODY PLANT, FLINT · 1937",
+"at": 0.3,
+"t0": 381.47,
+"line": "n32",
+"vd": 9.86,
+"t1": 392.23
+},
+{
+"type": "photo",
+"img": "guard_gun",
+"tag": "NATIONAL GUARD OVERLOOKING CHEVROLET PLANTS 9 AND 4 · SHELDON DICK · 1937",
+"small": 1,
+"date": "1937",
+"t0": 392.23,
+"line": "n33",
+"vd": 13.0,
+"t1": 406.13
+},
+{
+"type": "photo",
+"img": "guard_drill1",
+"tag": "NATIONAL GUARD AT A FLINT SCHOOL · 1937",
+"z": [
+1.0,
+1.1
+],
+"t0": 406.13,
+"line": "n34",
+"vd": 8.66,
+"t1": 415.69
+},
+{
+"type": "board",
+"upto": 3,
+"t0": 415.69,
+"line": "n35",
+"vd": 19.19,
+"from": 3,
+"t1": 435.77
+},
+{
+"type": "bars",
+"title": "GENERAL MOTORS · CARS BUILT PER MONTH",
+"data": [
+[
+"DEC 1936",
+50000
+],
+[
+"FEB 1937",
+125,
+"125"
+]
+],
+"max": 55000,
+"at": [
+-0.1,
+-0.6
+],
+"red": 1,
+"img": "guard_gun",
+"imgTag": "NATIONAL GUARD, FLINT · 1937",
+"t0": 435.77,
+"line": "n36",
+"vd": 9.73,
+"t1": 446.41
+},
+{
+"type": "photo",
+"img": "strike_sitdowners",
+"tag": "PHOTO · SHELDON DICK · FISHER BODY PLANT, FLINT · 1937",
+"z": [
+1.1,
+1.2
+],
+"fx": 0.6,
+"t0": 446.41,
+"line": "n37",
+"vd": 2.44,
+"t1": 449.75
+},
+{
+"type": "chapter",
+"t0": 449.75,
+"num": "DAY 3",
+"title": "11 FEB 1937",
+"sub": "The day they won",
+"img": "guard_drill1",
+"colour": false,
+"t1": 454.35
+},
+{
+"type": "board",
+"upto": 4,
+"t0": 454.35,
+"line": "n38",
+"vd": 6.52,
+"from": 4,
+"t1": 461.77
+},
+{
+"type": "photo",
+"img": "guard_drill3",
+"tag": "NATIONAL GUARD, FLINT · 1937",
+"z": [
+1.0,
+1.1
+],
+"t0": 461.77,
+"line": "n39",
+"vd": 19.08,
+"t1": 481.75
+},
+{
+"type": "photo",
+"img": "strike_window",
+"tag": "PHOTO · SHELDON DICK · FISHER BODY PLANT, FLINT · 1937",
+"z": [
+1.05,
+1.15
+],
+"fy": 0.3,
+"t0": 481.75,
+"line": "n40",
+"vd": 8.4,
+"t1": 491.05
+},
+{
+"type": "stat",
+"img": "strike_sleeping",
+"num": "136,000",
+"label": "GM workers idled · 280,000 cars unbuilt",
+"tag": "SHELDON DICK · 1937",
+"at": -0.2,
+"t0": 491.05,
+"line": "n41",
+"vd": 13.49,
+"t1": 505.45
+},
+{
+"type": "bars",
+"title": "UNITED AUTO WORKERS · MEMBERS",
+"data": [
+[
+"FEB 1937",
+88000
+],
+[
+"OCT 1937",
+400000
+]
+],
+"max": 420000,
+"at": [
+-0.2,
+-0.6
+],
+"red": 1,
+"img": "strike_window",
+"imgTag": "SIT-DOWNERS · 1937",
+"t0": 505.45,
+"line": "n42",
+"vd": 9.97,
+"t1": 516.31
+},
+{
+"type": "seq",
+"items": [
+[
+"ac_women1942",
+"AC SPARK PLUG, FLINT · WAR WORK · ANN ROSENER, OWI · 1942",
+0
+],
+[
+"ac_women1942b",
+"AC SPARK PLUG, FLINT · ANN ROSENER, OWI · 1942",
+0
+]
+],
+"t0": 516.31,
+"line": "n43",
+"vd": 11.2,
+"t1": 528.41
+},
+{
+"type": "photo",
+"img": "map1947",
+"tag": "MAP OF FLINT · FRED JOHNSON MAPS · 1947 (CC BY 2.0)",
+"z": [
+1.0,
+1.15
+],
+"t0": 528.41,
+"line": "n44",
+"vd": 10.41,
+"colour": 1,
+"t1": 539.72
+},
+{
+"type": "pop",
+"data": [
+[
+1900,
+13103
+],
+[
+1910,
+38550
+],
+[
+1920,
+91599
+],
+[
+1930,
+156492
+],
+[
+1940,
+151543
+],
+[
+1950,
+163143
+],
+[
+1960,
+196940
+]
+],
+"marks": [
+[
+1960,
+196940,
+-0.6
+]
+],
+"end": -0.6,
+"t0": 539.72,
+"line": "n45",
+"vd": 11.2,
+"t1": 551.81
+},
+{
+"type": "photo",
+"img": "map1955",
+"tag": "FLINT · MAP · 1955",
+"small": 1,
+"t0": 551.81,
+"line": "n46",
+"vd": 2.6,
+"t1": 555.31
+},
+{
+"type": "chapter",
+"t0": 555.31,
+"num": "DAY 4",
+"title": "1978",
+"sub": "The year at the top",
+"img": "buick_city1950",
+"colour": false,
+"t1": 559.91
+},
+{
+"type": "photo",
+"img": "buick_city1950",
+"tag": "MAP OF THE BUICK WORKS, FLINT · c. 1950",
+"z": [
+1.0,
+1.15
+],
+"fy": 0.4,
+"t0": 559.91,
+"line": "n47",
+"vd": 3.91,
+"t1": 564.72
+},
+{
+"type": "stat",
+"img": "buick_city1950",
+"num": "≈ 80,000",
+"label": "GM jobs in and around Flint · 1978",
+"tag": "MAP OF THE BUICK WORKS · c. 1950",
+"at": 0.3,
+"t0": 564.72,
+"line": "n48",
+"vd": 9.89,
+"t1": 575.51
+},
+{
+"type": "stat",
+"img": "dompolski1980",
+"num": "618,365",
+"label": "GM workers in the U.S. at the peak · 1979",
+"tag": "SAGINAW STREET, FLINT · JOHN MARGOLIES · 1980 (LIBRARY OF CONGRESS)",
+"at": -0.55,
+"t0": 575.51,
+"line": "n49",
+"vd": 13.34,
+"colour": 1,
+"t1": 589.75
+},
+{
+"type": "bars",
+"title": "IMPORTED CARS · SHARE OF THE U.S. MARKET",
+"data": [
+[
+"1978",
+18,
+"18%"
+],
+[
+"1980",
+26.5,
+"26.5%"
+]
+],
+"max": 30,
+"at": [
+-0.4,
+-0.75
+],
+"red": 1,
+"img": "dompolski1980",
+"imgTag": "FLINT · JOHN MARGOLIES · 1980",
+"t0": 589.75,
+"line": "n50",
+"vd": 16.52,
+"colour": 1,
+"t1": 607.17
+},
+{
+"type": "photo",
+"img": "dompolski1980",
+"tag": "DOM POLSKI, SAGINAW STREET, FLINT · JOHN MARGOLIES · 1980 (LIBRARY OF CONGRESS)",
+"z": [
+1.0,
+1.1
+],
+"t0": 607.17,
+"line": "n51",
+"vd": 9.84,
+"colour": 1,
+"t1": 617.9
+},
+{
+"type": "photo",
+"img": "dompolski1980",
+"tag": "SAGINAW STREET, FLINT · JOHN MARGOLIES · 1980 (LIBRARY OF CONGRESS)",
+"z": [
+1.1,
+1.2
+],
+"fx": 0.6,
+"date": "1989",
+"t0": 617.9,
+"line": "n52",
+"vd": 18.9,
+"colour": 1,
+"t1": 637.71
+},
+{
+"type": "photo",
+"img": "buick_whistle",
+"tag": "BUICK WORKERS AT THE WHISTLE · POSTCARD · 1912",
+"z": [
+1.0,
+1.1
+],
+"t0": 637.71,
+"line": "n53",
+"vd": 14.77,
+"t1": 653.38
+},
+{
+"type": "pop",
+"data": [
+[
+1900,
+13103
+],
+[
+1910,
+38550
+],
+[
+1920,
+91599
+],
+[
+1930,
+156492
+],
+[
+1940,
+151543
+],
+[
+1950,
+163143
+],
+[
+1960,
+196940
+],
+[
+1970,
+193317
+],
+[
+1980,
+159611
+]
+],
+"marks": [
+[
+1960,
+196940,
+-0.2
+],
+[
+1980,
+159611,
+-0.5
+]
+],
+"end": -0.5,
+"t0": 653.38,
+"line": "n54",
+"vd": 8.14,
+"t1": 662.42
+},
+{
+"type": "photo",
+"img": "ac_demolition",
+"tag": "AC SPARK PLUG SITE, FLINT · 2009 (CC BY 2.0)",
+"z": [
+1.0,
+1.08
+],
+"t0": 662.42,
+"line": "n55",
+"vd": 3.17,
+"colour": 1,
+"t1": 666.49
+},
+{
+"type": "chapter",
+"t0": 666.49,
+"num": "DAY 5",
+"title": "29 JUNE 1999",
+"sub": "The last Buick",
+"img": "ac_demolition",
+"colour": true,
+"t1": 671.09
+},
+{
+"type": "photo",
+"img": "sanborn1909_buick2",
+"tag": "SANBORN MAP · FLINT · NOV 1909 · THE BUICK WORKS, NORTH FLINT",
+"z": [
+1.0,
+1.1
+],
+"fy": 0.5,
+"fx": 0.7,
+"t0": 671.09,
+"line": "n56",
+"vd": 5.84,
+"t1": 677.83
+},
+{
+"type": "photo",
+"img": "buick1906",
+"tag": "THE FIRST BUICK FACTORY, NORTH FLINT · c. 1906",
+"z": [
+1.0,
+1.1
+],
+"t0": 677.83,
+"line": "n57",
+"vd": 13.7,
+"t1": 692.43
+},
+{
+"type": "photo",
+"img": "buick_postcard",
+"tag": "BUICK FACTORY AND OFFICES, FLINT · POSTCARD",
+"small": 1,
+"t0": 692.43,
+"line": "n58",
+"vd": 11.43,
+"colour": 1,
+"t1": 704.76
+},
+{
+"type": "stat",
+"img": "ac_demolition",
+"num": "≈ 1,200",
+"label": "workers left at Buick City in 1999",
+"tag": "AC SPARK PLUG SITE, FLINT · 2009 (CC BY 2.0)",
+"at": -0.6,
+"t0": 704.76,
+"line": "n59",
+"vd": 11.2,
+"colour": 1,
+"t1": 716.86
+},
+{
+"type": "stat",
+"img": "buick1907",
+"num": "1999",
+"label": "J.D. Power Platinum Award · plant quality",
+"tag": "BUICK MOTOR WORKS, FLINT · 1907",
+"at": -0.55,
+"t0": 716.86,
+"line": "n60",
+"vd": 11.53,
+"t1": 729.29
+},
+{
+"type": "photo",
+"img": "buick1907",
+"tag": "BUICK MOTOR WORKS, FLINT · 1907",
+"z": [
+1.1,
+1.2
+],
+"t0": 729.29,
+"line": "n61",
+"vd": 13.05,
+"t1": 743.24
+},
+{
+"type": "photo",
+"img": "ac_demolition",
+"tag": "AC SPARK PLUG SITE, FLINT · 2009 (CC BY 2.0)",
+"z": [
+1.05,
+1.12
+],
+"t0": 743.24,
+"line": "n62",
+"vd": 2.91,
+"colour": 1,
+"t1": 747.06
+},
+{
+"type": "bars",
+"title": "GENERAL MOTORS JOBS IN FLINT",
+"data": [
+[
+"1978",
+80000,
+"≈ 80,000"
+],
+[
+"1999",
+33000,
+"≈ 33,000"
+],
+[
+"2010",
+8000,
+"< 8,000"
+]
+],
+"max": 85000,
+"at": [
+-0.1,
+-0.2,
+-0.75
+],
+"red": 2,
+"img": "ac_demolition",
+"colour": 1,
+"imgTag": "AC SPARK PLUG SITE · 2009 (CC BY 2.0)",
+"t0": 747.06,
+"line": "n63",
+"vd": 12.81,
+"t1": 760.77
+},
+{
+"type": "photo",
+"img": "saginaw1910",
+"tag": "SAGINAW STREET, FLINT · c. 1910",
+"z": [
+1.0,
+1.08
+],
+"t0": 760.77,
+"line": "n64",
+"vd": 3.59,
+"t1": 765.26
+},
+{
+"type": "chapter",
+"t0": 765.26,
+"num": "DAY 6",
+"title": "OCT 2014",
+"sub": "The day the water changed",
+"img": "epa_tower",
+"colour": true,
+"t1": 769.86
+},
+{
+"type": "photo",
+"img": "epa_tower",
+"tag": "U.S. EPA · FLINT · 2016 · THE WATER PLANT",
+"z": [
+1.0,
+1.08
+],
+"t0": 769.86,
+"line": "n65",
+"vd": 3.83,
+"colour": 1,
+"t1": 774.59
+},
+{
+"type": "photo",
+"img": "epa_tower",
+"tag": "U.S. EPA · FLINT · 2016",
+"z": [
+1.1,
+1.2
+],
+"fx": 0.4,
+"t0": 774.59,
+"line": "n66",
+"vd": 12.68,
+"colour": 1,
+"t1": 788.17
+},
+{
+"type": "stat",
+"img": "epa_tower",
+"num": "25 APR 2014",
+"label": "Flint switches to Flint River water",
+"tag": "U.S. EPA · FLINT · 2016",
+"at": -0.4,
+"t0": 788.17,
+"line": "n67",
+"vd": 15.92,
+"colour": 1,
+"t1": 805.0
+},
+{
+"type": "photo",
+"img": "epa_testing",
+"tag": "U.S. EPA · FLINT · 2016 · TESTING WATER AT A SINK",
+"z": [
+1.0,
+1.1
+],
+"t0": 805.0,
+"line": "n68",
+"vd": 7.56,
+"colour": 1,
+"t1": 813.46
+},
+{
+"type": "film",
+"clips": [
+"c3",
+"c2"
+],
+"tag": "FILM · “MASTER HANDS” · CHEVROLET PLANTS, FLINT · 1936 · ENGINE WORK (ILLUSTRATIVE)",
+"t0": 813.46,
+"line": "n69",
+"vd": 14.96,
+"t1": 829.32
+},
+{
+"type": "quote",
+"img": "epa_testing",
+"imgTag": "U.S. EPA · FLINT · 2016",
+"q": [
+"“They told Flint…",
+"you’re causing us",
+"to lose engines.”"
+],
+"who": "RONALD JAMISON · 39 YEARS AT THE FLINT ENGINE PLANT · DEMOCRACY NOW! · 2016",
+"at": -0.45,
+"t0": 829.32,
+"line": "q02",
+"vd": 9.42,
+"colour": 1,
+"t1": 839.64
+},
+{
+"type": "quote",
+"img": "epa_testing",
+"imgTag": "U.S. EPA · FLINT · 2016",
+"q": [
+"“They took all",
+"the water fountains",
+"out of the plant.”"
+],
+"who": "RONALD JAMISON · DEMOCRACY NOW! · 17 FEB 2016",
+"t0": 839.64,
+"line": "q03",
+"vd": 8.82,
+"colour": 1,
+"t1": 849.35
+},
+{
+"type": "photo",
+"img": "epa_testing",
+"tag": "U.S. EPA · FLINT · 2016",
+"z": [
+1.1,
+1.2
+],
+"fx": 0.6,
+"t0": 849.35,
+"line": "n70",
+"vd": 4.48,
+"colour": 1,
+"t1": 854.73
+},
+{
+"type": "stat",
+"img": "epa_tower",
+"num": "16 OCT 2015",
+"label": "Flint switches back to Detroit water",
+"tag": "U.S. EPA · FLINT · 2016",
+"at": -0.75,
+"t0": 854.73,
+"line": "n71",
+"vd": 14.72,
+"colour": 1,
+"t1": 870.35
+},
+{
+"type": "stat",
+"img": "epa_testing",
+"num": "12",
+"label": "deaths, at least, in a Legionnaires’ outbreak",
+"tag": "U.S. EPA · FLINT · 2016",
+"at": -0.7,
+"t0": 870.35,
+"line": "n72",
+"vd": 12.87,
+"colour": 1,
+"t1": 884.12
+},
+{
+"type": "pair",
+"a": "guard_drill1",
+"b": "guard2016_door",
+"ta": "NATIONAL GUARD · FLINT · 1937",
+"tb": "MICHIGAN NATIONAL GUARD · FLINT · JAN 2016 (CC BY 2.0)",
+"cb": 1,
+"bat": -0.3,
+"t0": 884.12,
+"line": "n73",
+"vd": 13.05,
+"t1": 898.07
+},
+{
+"type": "stat",
+"img": "guard2016_site",
+"num": "$626M",
+"label": "settlement approved · 2021",
+"tag": "MICHIGAN NATIONAL GUARD · FLINT · JAN 2016 (CC BY 2.0)",
+"at": -0.45,
+"t0": 898.07,
+"line": "n74",
+"vd": 18.46,
+"colour": 1,
+"t1": 917.43
+},
+{
+"type": "photo",
+"img": "guard2016_site2",
+"tag": "MICHIGAN NATIONAL GUARD · FLINT · JAN 2016 (CC BY 2.0)",
+"z": [
+1.0,
+1.1
+],
+"t0": 917.43,
+"line": "n75",
+"vd": 2.29,
+"colour": 1,
+"t1": 920.61
+},
+{
+"type": "chapter",
+"t0": 920.61,
+"num": "",
+"title": "TODAY",
+"sub": "",
+"img": "usda_water",
+"colour": true,
+"t1": 925.21
+},
+{
+"type": "pop",
+"data": [
+[
+1900,
+13103
+],
+[
+1910,
+38550
+],
+[
+1920,
+91599
+],
+[
+1930,
+156492
+],
+[
+1940,
+151543
+],
+[
+1950,
+163143
+],
+[
+1960,
+196940
+],
+[
+1970,
+193317
+],
+[
+1980,
+159611
+],
+[
+1990,
+140761
+],
+[
+2000,
+124943
+],
+[
+2010,
+102434
+],
+[
+2020,
+81252
+]
+],
+"marks": [
+[
+1960,
+196940,
+-0.4
+],
+[
+2020,
+81252,
+-0.2
+]
+],
+"end": -0.35,
+"t0": 925.21,
+"line": "n76",
+"vd": 8.48,
+"t1": 934.59
+},
+{
+"type": "photo",
+"img": "usda_water",
+"tag": "FLINT · USDA PHOTO · 2016",
+"z": [
+1.0,
+1.08
+],
+"t0": 934.59,
+"line": "n77",
+"vd": 14.77,
+"colour": 1,
+"t1": 950.26
+},
+{
+"type": "photo",
+"img": "chevy_commons_ground",
+"tag": "GROUNDBREAKING FOR CHEVY COMMONS, FLINT · 2015 (CC BY 2.0)",
+"small": 1,
+"t0": 950.26,
+"line": "n78",
+"vd": 12.45,
+"colour": 1,
+"t1": 963.61
+},
+{
+"type": "photo",
+"img": "sanborn1909_buick2",
+"tag": "SANBORN MAP · FLINT · NOV 1909 · THE BUICK WORKS",
+"z": [
+1.1,
+1.2
+],
+"fy": 0.4,
+"fx": 0.75,
+"t0": 963.61,
+"line": "n79",
+"vd": 11.79,
+"t1": 976.31
+},
+{
+"type": "photo",
+"img": "strike_meal",
+"tag": "STRIKERS IN THE PLANT CAFETERIA · 1937",
+"small": 1,
+"t0": 976.31,
+"line": "n80",
+"vd": 9.65,
+"t1": 986.86
+},
+{
+"type": "pair",
+"a": "strike_window",
+"b": "guard2016_site2",
+"ta": "FLINT · 1937",
+"tb": "FLINT · 2016 (CC BY 2.0)",
+"cb": 1,
+"bat": -0.45,
+"t0": 986.86,
+"line": "n81",
+"vd": 12.68,
+"t1": 1000.44
+},
+{
+"type": "pair",
+"a": "vehicle_city",
+"b": "usda_water",
+"ta": "“FLINT VEHICLE CITY” · 1906",
+"tb": "THE FLINT ARCH · 2016 · ≈ SAME STREET (USDA)",
+"cb": 1,
+"bat": -0.4,
+"t0": 1000.44,
+"line": "n82",
+"vd": 8.56,
+"t1": 1009.9
+},
+{
+"type": "quote",
+"img": "strike_window",
+"imgTag": "PHOTO · SHELDON DICK · FISHER BODY PLANT, FLINT · 1937",
+"q": [
+"“She’s ours!”"
+],
+"who": "A SIT-DOWN STRIKER · 30 DECEMBER 1936",
+"at": 0.0,
+"t0": 1009.9,
+"line": "q04",
+"vd": 6.15,
+"t1": 1016.95
+},
+{
+"type": "photo",
+"img": "strike_sitdowners",
+"tag": "PHOTO · SHELDON DICK · FISHER BODY PLANT, FLINT · 1937",
+"z": [
+1.0,
+1.08
+],
+"t0": 1016.95,
+"line": "n83",
+"vd": 9.55,
+"t1": 1027.4
+},
+{
+"type": "photo",
+"img": "usda_water",
+"tag": "FLINT · 2016 (USDA)",
+"z": [
+1.05,
+1.12
+],
+"t0": 1027.4,
+"line": "n84",
+"vd": 2.83,
+"colour": 1,
+"t1": 1031.74
+},
+{
+"type": "end",
+"t0": 1031.74,
+"t1": 1047.7
+}
+],
+"vo": {
+"n01": 1.2,
+"n02": 8.906,
+"n03": 23.587,
+"q01": 29.804,
+"n04": 34.323,
+"n05": 49.631,
+"n06": 58.095,
+"n07": 63.398,
+"n08": 69.197,
+"n09": 83.59,
+"n10": 100.099,
+"n11": 113.711,
+"n12": 125.623,
+"n13": 136.281,
+"n14": 152.764,
+"n15": 167.706,
+"n16": 186.436,
+"n17": 198.896,
+"n18": 212.114,
+"n19": 224.862,
+"n20": 236.748,
+"n21": 252.474,
+"n22": 264.203,
+"n23": 273.27,
+"n24": 282.465,
+"n25": 303.128,
+"n26": 315.954,
+"n27": 327.395,
+"n28": 336.433,
+"n30": 348.841,
+"n31": 364.122,
+"n32": 381.467,
+"n33": 392.229,
+"n34": 406.126,
+"n35": 415.687,
+"n36": 435.775,
+"n37": 446.407,
+"n38": 454.351,
+"n39": 461.77,
+"n40": 481.754,
+"n41": 491.053,
+"n42": 505.446,
+"n43": 516.313,
+"n44": 528.408,
+"n45": 539.719,
+"n46": 551.814,
+"n47": 559.914,
+"n48": 564.72,
+"n49": 575.508,
+"n50": 589.745,
+"n51": 607.169,
+"n52": 617.905,
+"n53": 637.706,
+"n54": 653.379,
+"n55": 662.417,
+"n56": 671.092,
+"n57": 677.831,
+"n58": 692.433,
+"n59": 704.763,
+"n60": 716.858,
+"n61": 729.292,
+"n62": 743.241,
+"n63": 747.055,
+"n64": 760.769,
+"n65": 769.862,
+"n66": 774.59,
+"n67": 788.174,
+"n68": 804.997,
+"n69": 813.461,
+"q02": 829.317,
+"q03": 839.635,
+"n70": 849.352,
+"n71": 854.733,
+"n72": 870.354,
+"n73": 884.12,
+"n74": 898.069,
+"n75": 917.426,
+"n76": 925.213,
+"n77": 934.591,
+"n78": 950.264,
+"n79": 963.612,
+"n80": 976.307,
+"n81": 986.86,
+"n82": 1000.444,
+"q04": 1009.9,
+"n83": 1016.953,
+"n84": 1027.402
+},
+"subs": [
+[
+1.1,
+5.75,
+"It's the night of 30 December 1936."
+],
+[
+5.77,
+8.31,
+"Flint, Michigan."
+],
+[
+8.81,
+12.69,
+"Inside General Motors' Fisher Body Plant No. 1,"
+],
+[
+12.71,
+16.67,
+"the workers have seen something they don't like."
+],
+[
+16.69,
+20.41,
+"Machinery is being loaded onto railroad cars,"
+],
+[
+20.43,
+22.99,
+"bound for other factories."
+],
+[
+23.49,
+27.19,
+"So they stop working. They shut the doors."
+],
+[
+27.21,
+29.2,
+"And they sit down."
+],
+[
+29.7,
+33.72,
+"One man shouts: “She's ours!”"
+],
+[
+34.22,
+36.62,
+"They will stay for 44 days."
+],
+[
+36.64,
+38.68,
+"And when they walk out,"
+],
+[
+38.7,
+43.42,
+"the biggest carmaker in the world will have given in."
+],
+[
+43.44,
+49.03,
+"Flint will be the town where American factory workers won."
+],
+[
+49.53,
+54.23,
+"Four decades later, about 80,000 people in Flint"
+],
+[
+54.25,
+57.49,
+"will work for General Motors."
+],
+[
+57.99,
+62.8,
+"Today, the city has lost more than half its people."
+],
+[
+63.3,
+65.5,
+"So what did winning buy?"
+],
+[
+65.52,
+68.6,
+"And what couldn't it protect?"
+],
+[
+69.1,
+73.03,
+"This is the story of what happened to Flint."
+],
+[
+73.05,
+77.44,
+"Every photograph you'll see is of the real Flint."
+],
+[
+77.46,
+82.99,
+"Every number has a source. And we'll tell it in six days."
+],
+[
+83.49,
+89.07,
+"The day General Motors was born. The night they sat down."
+],
+[
+89.09,
+92.8,
+"The day they won. The year at the top."
+],
+[
+92.82,
+99.5,
+"The day the last Buick was built. And the day the water changed."
+],
+[
+100.0,
+104.24,
+"If anyone in your family ever carried a union card,"
+],
+[
+104.26,
+108.51,
+"or built a car in Flint, this one is for them."
+],
+[
+113.61,
+115.74,
+"It's 16 September 1908."
+],
+[
+115.76,
+120.68,
+"And a man from Flint is about to create a car company"
+],
+[
+120.7,
+125.02,
+"that will become the biggest in the world."
+],
+[
+125.52,
+131.44,
+"His name is William Crapo Durant. Everyone calls him Billy."
+],
+[
+131.46,
+135.68,
+"He isn't an engineer. He's a salesman."
+],
+[
+136.18,
+139.39,
+"Twenty-two years earlier, in 1886,"
+],
+[
+139.41,
+142.53,
+"he borrowed $1,500 and bought the"
+],
+[
+142.55,
+145.76,
+"rights to a two-wheeled road cart."
+],
+[
+145.78,
+152.16,
+"With a partner, Dallas Dort, he started building them in Flint."
+],
+[
+152.66,
+156.79,
+"By 1900, the Durant-Dort Carriage Company"
+],
+[
+156.81,
+161.03,
+"was the biggest carriage maker in America."
+],
+[
+161.05,
+167.11,
+"Flint put up an arch over its main street: Vehicle City."
+],
+[
+167.61,
+172.6,
+"Then the vehicles changed. In 1904, Durant took over"
+],
+[
+172.62,
+176.55,
+"a small, struggling company called Buick."
+],
+[
+176.57,
+180.5,
+"He sold Buicks the way he had sold carts,"
+],
+[
+180.52,
+185.84,
+"and Buick grew faster than anyone could build them."
+],
+[
+186.34,
+192.35,
+"Now, in September 1908, he puts Buick inside a new company,"
+],
+[
+192.37,
+198.3,
+"with Oldsmobile beside it. He calls it General Motors."
+],
+[
+198.8,
+201.88,
+"The fire-insurance map of Flint the"
+],
+[
+201.9,
+205.25,
+"next year shows what Buick has become:"
+],
+[
+205.27,
+208.79,
+"a factory spread over block after block,"
+],
+[
+208.81,
+211.51,
+"on the north side of town."
+],
+[
+212.01,
+215.18,
+"More would come. Chevrolet built"
+],
+[
+215.2,
+218.37,
+"cars in Flint's old wagon works."
+],
+[
+218.39,
+224.26,
+"Fisher Body stamped the steel. AC made the spark plugs."
+],
+[
+224.76,
+227.27,
+"And the people came."
+],
+[
+227.29,
+231.43,
+"In 1900, Flint had 13,000 people."
+],
+[
+231.45,
+236.15,
+"By 1930, it had more than 150,000."
+],
+[
+236.65,
+240.46,
+"This is what working there looked like,"
+],
+[
+240.48,
+245.07,
+"filmed inside Chevrolet's Flint plants in 1936."
+],
+[
+245.09,
+248.51,
+"The foundry. The presses. The line."
+],
+[
+248.53,
+251.87,
+"Fast, hot, and never stopping."
+],
+[
+252.37,
+255.42,
+"The pay was better than on any farm."
+],
+[
+255.44,
+260.2,
+"But the men on the line had no say over how fast it ran,"
+],
+[
+260.22,
+263.6,
+"or who was laid off when it slowed."
+],
+[
+264.1,
+268.07,
+"So why would they risk everything?"
+],
+[
+273.17,
+277.96,
+"It's 30 December 1936, again."
+],
+[
+277.98,
+281.87,
+"And now we're inside."
+],
+[
+282.36,
+284.32,
+"The union has a plan."
+],
+[
+284.34,
+288.65,
+"General Motors makes almost all its car bodies"
+],
+[
+288.67,
+294.3,
+"from steel dies, the giant moulds that stamp out the panels."
+],
+[
+294.32,
+298.63,
+"And there are only two sets. One in Cleveland."
+],
+[
+298.65,
+302.53,
+"One here, in Fisher Body Plant No. 1."
+],
+[
+303.03,
+305.79,
+"When the workers see those dies"
+],
+[
+305.81,
+309.11,
+"being moved toward the railroad cars,"
+],
+[
+309.13,
+311.71,
+"they know. If the dies leave,"
+],
+[
+311.73,
+315.35,
+"the strike is lost before it starts."
+],
+[
+315.85,
+317.84,
+"So they don't walk out."
+],
+[
+317.86,
+322.45,
+"Walking out would let the company bring in other men."
+],
+[
+322.47,
+326.8,
+"Instead, they stay inside, and they sit down."
+],
+[
+327.29,
+331.95,
+"These photographs were taken inside the Fisher Body plants"
+],
+[
+331.97,
+335.83,
+"by a government photographer, Sheldon Dick."
+],
+[
+336.33,
+341.38,
+"The strikers sleep on the car seats from the assembly line."
+],
+[
+341.4,
+344.13,
+"They eat in the plant cafeteria."
+],
+[
+344.15,
+348.24,
+"They guard the doors and windows in shifts."
+],
+[
+348.74,
+352.15,
+"Outside, the women of Flint organize."
+],
+[
+352.17,
+356.89,
+"They call themselves the Women's Emergency Brigade,"
+],
+[
+356.91,
+359.21,
+"and they wear red berets."
+],
+[
+359.23,
+363.52,
+"One of their organizers is Genora Johnson."
+],
+[
+364.02,
+368.38,
+"On 11 January, the police try to cut off the food"
+],
+[
+368.4,
+370.79,
+"at Fisher Body Plant No. 2."
+],
+[
+370.81,
+373.74,
+"The strikers fight back with fire"
+],
+[
+373.76,
+376.6,
+"hoses and heavy car-door hinges."
+],
+[
+376.62,
+380.87,
+"The police fire tear gas, and then bullets."
+],
+[
+381.37,
+384.63,
+"Fourteen strikers are hit by gunfire."
+],
+[
+384.65,
+386.5,
+"The police pull back."
+],
+[
+386.52,
+391.63,
+"The strikers call it the Battle of the Running Bulls."
+],
+[
+392.13,
+395.01,
+"Now the new governor of Michigan,"
+],
+[
+395.03,
+398.7,
+"Frank Murphy, sends in the National Guard."
+],
+[
+398.72,
+401.68,
+"But not to throw the strikers out."
+],
+[
+401.7,
+405.53,
+"To keep the peace, and to protect them."
+],
+[
+406.03,
+410.13,
+"A court orders the strikers to leave. They don't."
+],
+[
+410.15,
+415.09,
+"And the governor will not use the troops to make them."
+],
+[
+415.59,
+419.06,
+"On 1 February, the union pulls a trick."
+],
+[
+419.08,
+422.65,
+"It starts a fight at Chevrolet Plant No."
+],
+[
+422.67,
+425.79,
+"9, to draw the company guards away."
+],
+[
+425.81,
+429.91,
+"Meanwhile, its men take Chevrolet Plant No. 4."
+],
+[
+429.93,
+435.18,
+"That's where the engines for every Chevrolet are made."
+],
+[
+435.67,
+441.79,
+"In December, General Motors built 50,000 cars."
+],
+[
+441.81,
+445.81,
+"In February, it builds 125."
+],
+[
+446.31,
+449.15,
+"Can they actually win?"
+],
+[
+454.25,
+459.18,
+"It's 11 February 1937."
+],
+[
+459.2,
+461.17,
+"Day 44."
+],
+[
+461.67,
+466.4,
+"With the governor carrying messages between the two sides,"
+],
+[
+466.42,
+470.25,
+"General Motors and the union sign an agreement."
+],
+[
+470.27,
+471.89,
+"It is one page long."
+],
+[
+471.91,
+474.67,
+"For the first time, General Motors"
+],
+[
+474.69,
+477.46,
+"recognizes the United Auto Workers"
+],
+[
+477.48,
+481.15,
+"as the bargaining agent for its members."
+],
+[
+481.65,
+486.05,
+"The strikers parade out of the plants, victorious."
+],
+[
+486.07,
+490.45,
+"Some of them have not been home in six weeks."
+],
+[
+490.95,
+496.55,
+"The strike has idled 136,000 General Motors workers,"
+],
+[
+496.57,
+499.78,
+"and left 280,000 cars unbuilt."
+],
+[
+499.8,
+504.85,
+"And it changes everything that comes after."
+],
+[
+505.35,
+512.05,
+"In February, the United Auto Workers has 88,000 members."
+],
+[
+512.07,
+515.71,
+"By October, it has 400,000."
+],
+[
+516.21,
+518.93,
+"What follows are the good years."
+],
+[
+518.95,
+524.23,
+"During the Second World War, Flint's plants build for the war."
+],
+[
+524.25,
+527.81,
+"Women take their places on the lines."
+],
+[
+528.31,
+532.85,
+"After it, the cars come back bigger than ever."
+],
+[
+532.87,
+539.12,
+"A factory job in Flint means a house, a car, and a pension."
+],
+[
+539.62,
+545.27,
+"By 1960, Flint has almost 197,000 people."
+],
+[
+545.29,
+551.21,
+"More than it has ever had, or ever will."
+],
+[
+551.71,
+554.71,
+"How long can it last?"
+],
+[
+559.81,
+564.12,
+"It's 1978. The top."
+],
+[
+564.62,
+571.06,
+"About 80,000 people in and around Flint work for General Motors."
+],
+[
+571.08,
+574.91,
+"Buick, Chevrolet, Fisher Body, AC."
+],
+[
+575.41,
+580.13,
+"Across America, General Motors employs more"
+],
+[
+580.15,
+584.32,
+"people than any other private company."
+],
+[
+584.34,
+589.14,
+"At its peak, in 1979, more than 618,000."
+],
+[
+589.64,
+593.94,
+"But the cracks are already there. Smaller,"
+],
+[
+593.96,
+597.43,
+"cheaper imported cars are selling."
+],
+[
+597.45,
+602.35,
+"In 1978, imports are 18% of the American market."
+],
+[
+602.37,
+606.57,
+"Two years later, more than a quarter."
+],
+[
+607.07,
+612.72,
+"General Motors builds new plants in other states, and in Mexico."
+],
+[
+612.74,
+617.3,
+"Flint's old factories close, one after another."
+],
+[
+617.8,
+620.47,
+"In 1989, a filmmaker from Flint,"
+],
+[
+620.49,
+623.58,
+"Michael Moore, makes a film about it,"
+],
+[
+623.6,
+626.86,
+"“Roger & Me”, following his attempts to"
+],
+[
+626.88,
+630.13,
+"talk to the chairman of General Motors."
+],
+[
+630.15,
+633.58,
+"Many people see Flint for the first time,"
+],
+[
+633.6,
+637.11,
+"as a place that has been left behind."
+],
+[
+637.61,
+640.51,
+"General Motors says it has to cut"
+],
+[
+640.53,
+643.42,
+"costs to survive the competition."
+],
+[
+643.44,
+648.64,
+"The workers say they did everything that was asked of them."
+],
+[
+648.66,
+652.78,
+"Both are telling the truth as they see it."
+],
+[
+653.28,
+658.91,
+"By 1980, Flint is down to 160,000 people."
+],
+[
+658.93,
+661.82,
+"And still falling."
+],
+[
+662.32,
+665.89,
+"What happens when the jobs go?"
+],
+[
+670.99,
+677.23,
+"It's 29 June 1999. Buick City."
+],
+[
+677.73,
+683.09,
+"This is the old Buick works, the same ground on the north side"
+],
+[
+683.11,
+687.34,
+"where Billy Durant built Buicks ninety years ago,"
+],
+[
+687.36,
+691.83,
+"rebuilt in the 1980s as one giant modern plant."
+],
+[
+692.33,
+696.51,
+"The last Buick LeSabre is coming down the line."
+],
+[
+696.53,
+701.6,
+"When it's done, Buick will no longer build cars in Flint,"
+],
+[
+701.62,
+704.16,
+"the city where it began."
+],
+[
+704.66,
+709.52,
+"General Motors announced the closing two years ago."
+],
+[
+709.54,
+712.58,
+"Sales of big sedans are falling."
+],
+[
+712.6,
+716.26,
+"Only about 1,200 workers are left."
+],
+[
+716.76,
+720.55,
+"And here is the part that's hard to believe."
+],
+[
+720.57,
+725.76,
+"This same year, Buick City wins J.D. Power's Platinum Award,"
+],
+[
+725.78,
+728.69,
+"for the quality of its plant."
+],
+[
+729.19,
+734.68,
+"Ten years earlier, a LeSabre built here was ranked the top car"
+],
+[
+734.7,
+737.61,
+"in J.D. Power's quality rankings."
+],
+[
+737.63,
+742.64,
+"The first American-built car ever to make that list."
+],
+[
+743.14,
+746.46,
+"Being the best was not enough."
+],
+[
+746.96,
+753.45,
+"By now, General Motors employs about 33,000 people in Flint."
+],
+[
+753.47,
+755.3,
+"Down from 80,000."
+],
+[
+755.32,
+760.17,
+"And it will keep falling, to under 8,000."
+],
+[
+760.67,
+764.66,
+"What is Flint, without its factories?"
+],
+[
+769.76,
+773.99,
+"It's October 2014."
+],
+[
+774.49,
+776.49,
+"Flint is short of money,"
+],
+[
+776.51,
+780.01,
+"and the state of Michigan has put it under"
+],
+[
+780.03,
+784.05,
+"an emergency manager, appointed by the governor,"
+],
+[
+784.07,
+787.57,
+"with power over the city's decisions."
+],
+[
+788.07,
+791.37,
+"Six months ago, in April, to save money,"
+],
+[
+791.39,
+795.27,
+"the city stopped buying its water from Detroit,"
+],
+[
+795.29,
+798.92,
+"and started drawing it from the Flint River."
+],
+[
+798.94,
+804.4,
+"It was meant to be temporary, until a new pipeline was built."
+],
+[
+804.9,
+809.2,
+"The river water is not treated to control corrosion."
+],
+[
+809.22,
+812.86,
+"And it is eating away at the old pipes."
+],
+[
+813.36,
+816.46,
+"At General Motors' Flint engine plant,"
+],
+[
+816.48,
+818.6,
+"the company notices first."
+],
+[
+818.62,
+821.56,
+"The water is corroding engine parts."
+],
+[
+821.58,
+825.75,
+"So General Motors gets permission to stop using it,"
+],
+[
+825.77,
+828.72,
+"and switches to another supply."
+],
+[
+829.22,
+833.91,
+"Ronald Jamison had worked at that plant for 39 years."
+],
+[
+833.93,
+839.03,
+"“They told Flint… you're causing us to lose engines.”"
+],
+[
+839.54,
+842.12,
+"“Matter of fact, they took all the"
+],
+[
+842.14,
+844.65,
+"water fountains out of the plant."
+],
+[
+844.67,
+848.75,
+"We have all water coolers throughout the plant.”"
+],
+[
+849.25,
+854.13,
+"The people of Flint stay on the river water for another year."
+],
+[
+854.63,
+859.32,
+"In September 2015, a local doctor, Mona Hanna-Attisha,"
+],
+[
+859.34,
+864.89,
+"shows that more of the city's children have lead in their blood."
+],
+[
+864.91,
+869.75,
+"In October, Flint switches back to Detroit's water."
+],
+[
+870.25,
+875.31,
+"By then, lead from the old pipes has reached the taps."
+],
+[
+875.33,
+880.75,
+"An outbreak of Legionnaires' disease, linked to the water,"
+],
+[
+880.77,
+883.52,
+"kills at least 12 people."
+],
+[
+884.02,
+889.28,
+"In January 2016, the National Guard comes to Flint again."
+],
+[
+889.3,
+892.51,
+"Not to protect strikers, this time."
+],
+[
+892.53,
+897.47,
+"To carry bottled water and filters, door to door."
+],
+[
+897.97,
+902.96,
+"Officials, including two former emergency managers,"
+],
+[
+902.98,
+905.31,
+"are charged with crimes."
+],
+[
+905.33,
+910.71,
+"In 2021, a judge approves a settlement of $626 million,"
+],
+[
+910.73,
+916.83,
+"most of it paid by the state, most of it for the children."
+],
+[
+917.33,
+920.01,
+"Is anything left?"
+],
+[
+925.11,
+929.08,
+"Today, Flint has 81,000 people."
+],
+[
+929.1,
+933.99,
+"Fewer than half as many as in 1960."
+],
+[
+934.49,
+938.19,
+"But General Motors still builds trucks here."
+],
+[
+938.21,
+941.06,
+"Flint Assembly, its oldest working"
+],
+[
+941.08,
+943.76,
+"assembly plant in North America,"
+],
+[
+943.78,
+945.87,
+"makes heavy-duty pickups,"
+],
+[
+945.89,
+949.66,
+"with more than 4,000 people on the line."
+],
+[
+950.16,
+954.86,
+"Chevy in the Hole, where Chevrolet's plants stood,"
+],
+[
+954.88,
+958.63,
+"and where the strikers took Plant No. 4,"
+],
+[
+958.65,
+963.01,
+"is now a park by the river: Chevy Commons."
+],
+[
+963.51,
+966.06,
+"And on the Buick City ground,"
+],
+[
+966.08,
+969.61,
+"where Billy Durant's first factory grew,"
+],
+[
+969.63,
+972.98,
+"new industrial buildings are going up."
+],
+[
+973.0,
+975.71,
+"Ground was broken in 2023."
+],
+[
+976.21,
+978.27,
+"So what did winning buy?"
+],
+[
+978.29,
+982.54,
+"Decades of union wages, pensions and health care,"
+],
+[
+982.56,
+986.26,
+"for hundreds of thousands of families."
+],
+[
+986.76,
+988.87,
+"And what couldn't it protect?"
+],
+[
+988.89,
+991.87,
+"It couldn't keep the company in the city."
+],
+[
+991.89,
+995.9,
+"It couldn't decide where the next plant would be built."
+],
+[
+995.92,
+999.84,
+"And it couldn't stop a decision about the water."
+],
+[
+1000.34,
+1004.33,
+"Ninety years ago, a group of workers sat down"
+],
+[
+1004.35,
+1009.3,
+"in a car-body plant in Flint, and refused to leave."
+],
+[
+1009.8,
+1013.65,
+"“She's ours,” one of them shouted."
+],
+[
+1013.67,
+1016.35,
+"For 44 days, it was."
+],
+[
+1016.85,
+1022.36,
+"Did your family build cars in Flint? Or carry a union card?"
+],
+[
+1022.38,
+1026.8,
+"Tell us in the comments. We read every one."
+],
+[
+1027.3,
+1030.54,
+"Next Sunday: Sears."
+]
+]
+}
