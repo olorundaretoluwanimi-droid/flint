@@ -113,7 +113,8 @@ S = {
  'n71': dict(type='stat', img='epa_tower', num='16 OCT 2015', label='Flint switches back to Detroit water', tag=EPA, at=-0.75),
  'n72': dict(type='stat', img='epa_testing', num='12', label='deaths, at least, in a Legionnaires’ outbreak', tag=EPA, at=-0.7),
  'n73': dict(type='pair', a='guard_drill1', b='guard2016_door', ta='NATIONAL GUARD · FLINT · 1937', tb=NG16, cb=1, bat=-0.3),
- 'n74': dict(type='stat', img='guard2016_site', num='$626M', label='settlement approved · 2021', tag=NG16, at=-0.45),
+ 'n74': dict(type='stat', img='guard2016_site', num='$626M', label='settlement approved · 2021', tag=NG16, at=-0.45,
+             note=['Charges later dropped or dismissed (2019–2023)', 'INCLUDING BOTH FORMER EMERGENCY MANAGERS']),
  'n75': P('guard2016_site2', tag=NG16, z=(1.0, 1.1)),
  # ── Today ──
  'n76': dict(type='pop', data=[[1900, 13103], [1910, 38550], [1920, 91599], [1930, 156492], [1940, 151543], [1950, 163143], [1960, 196940], [1970, 193317], [1980, 159611], [1990, 140761], [2000, 124943], [2010, 102434], [2020, 81252]],

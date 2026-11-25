@@ -95,11 +95,17 @@ function sPhoto(t, s) {
   if (s.date) dateBox(s.date, 1860, 60, seg(t, s.t0 + .2, s.t0 + .3));
   if (s.name) nameBox(s.name, s.role, 60, 790, seg(t, s.t0 + .4, s.t0 + .5));
 }
+function noteBox(t, s, X) {   // a correction that must stay on screen with the shot (e.g. charges later dropped)
+  if (!s.note) return; const k = seg(t, s.t0 + .3, s.t0 + .4), w = Math.max(tw(s.note[0], { s: 32, w: 700 }), tw(s.note[1], { s: 20, f: F.mono, w: 600 })) + 72;
+  shade(X, 790, w, 116, .9 * k); x.save(); x.globalAlpha *= k; fill(X + 18, 806, 6, 84, C.acc); x.restore();
+  txt(s.note[0], X + 40, 846, { s: 32, w: 700, a: k, id: 'nt0' }); txt(s.note[1], X + 42, 884, { s: 20, f: F.mono, w: 600, c: C.dim, a: k, id: 'nt1' });
+}
 function sStat(t, s) {
   const im = IM[s.img], a00 = AT(s, s.at);
-  if (t < a00) { cover(im, 60, 60, 1800, 860, { flash: flashK(t, s), colour: s.colour }, .5, .5, null, lerp(1, 1.06, seg(t, s.t0, a00))); tag(s.tag, 60, 46, { id: 'tg' }); return; }
+  if (t < a00) { cover(im, 60, 60, 1800, 860, { flash: flashK(t, s), colour: s.colour }, .5, .5, null, lerp(1, 1.06, seg(t, s.t0, a00))); tag(s.tag, 60, 46, { id: 'tg' }); noteBox(t, s, 60); return; }
   cover(im, 60, 60, 1120, 860, { flash: flashK(t, s), colour: s.colour }, .5, .5, null, lerp(1, 1.06, K(t, s))); tag(s.tag, 60, 46, { id: 'tg' });
   const a0 = AT(s, s.at), k = seg(t, a0, a0 + .06); if (k <= 0) return;
+  noteBox(t, s, 60);
   const n = s.num.length, sz = n > 8 ? 104 : n > 6 ? 124 : n > 5 ? 150 : 190;
   txt(s.num, 1230, 520, { s: sz, f: F.mono, w: 600, c: C.acc, a: k, id: 'num' });
   const words = s.label.split(' '), lines = [''];   // wrap the label at ≈ 600 px

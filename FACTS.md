@@ -41,13 +41,14 @@ Line ids refer to script.md. Quotes are verbatim from the source named.
 | n72 | Legionnaires' outbreak, at least 12 deaths | NPR; PBS NewsHour |
 | n73 | Jan 2016: Michigan National Guard delivers water, filters and test kits door to door | Michigan National Guard photo captions (Flickr, CC BY 2.0) |
 | n74 | Two former emergency managers among those charged (Dec 2016); $626 million settlement approved 10 Nov 2021, $600 million from the state, ~80% for children | NPR, 20 Dec 2016; NPR, 10 Nov 2021 |
+| n74 (on screen) | "Charges later dropped or dismissed (2019–2023) · including both former emergency managers": all pending charges, including those against Darnell Earley and Gerald Ambrose, dropped 13 June 2019 (without prejudice); re-charges of Jan 2021 dismissed Oct 2022 after the Michigan Supreme Court ruled (28 June 2022) that a one-judge grand jury cannot indict; dismissals final when the court declined appeals, 20 Sept 2023. (Seven of the 15 first-round defendants had pleaded no contest to misdemeanours, so the film does not say all charges ended.) | Michigan Public / NBC News, 13 June 2019; PBS NewsHour, 28 June 2022; NPR, 5 Oct 2022; Michigan Attorney General, 20 Sept 2023 |
 | n77 | Flint Assembly: GM's oldest assembly plant still operating in North America; heavy-duty Silverado/Sierra; ≈ 4,200 hourly workers (2025) | Wikipedia, "Flint Truck Assembly"; Automotive World 2025; GM newsroom, Mar 2026 |
 | n78 | Chevy in the Hole → Chevy Commons, a park by the river (≈ 60 acres) | Michigan DNR, Apr 2026; Michigan Public 2015 |
 | n79 | Buick City → Flint Commerce Center; groundbreaking 5 June 2023, $300 million | Michigan Public, 5 June 2023 |
 
 ## Inferences and choices
 
-- The 1906 "Vehicle City" arch and the 2016 Flint arch are paired as "≈ same street" (both span Saginaw Street downtown; the exact spot is not claimed).
+- The 1906 "Vehicle City" arch and the 2016 Flint arch are paired as "≈ same street" (both span Saginaw Street downtown; the exact spot is not claimed). The 2016 photo is SOURCES.jsonl `usda_water`: USDA Food and Nutrition Service, 4 Oct 2016, photo 20161004-FNS-LSC-0039, public domain (Commons: https://commons.wikimedia.org/wiki/File:Genesee_County_Community_Action_Resource_Department_(GCCARD)_partners_with_USDA_to_help_Flint,_MI_-_TEFAP_and_CSFP_(20161004-FNS-LSC-0039).jpg).
 - Film shots of 1936 engine work under the 2014 engine-plant line are marked "illustrative".
 - No hour is given for the start of the sit-down (sources disagree: 8 p.m. / 10 p.m.).
 - "Ninety years" = 1936 → 2026.
